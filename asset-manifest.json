@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.78c25d29.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.78c25d29.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.a1cfadb0.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.a1cfadb0.js.map",
-    "static/js/2.dbea3b6e.chunk.js": "/react-gh-pages/static/js/2.dbea3b6e.chunk.js",
-    "static/js/2.dbea3b6e.chunk.js.map": "/react-gh-pages/static/js/2.dbea3b6e.chunk.js.map",
-    "static/js/3.8f4aba9b.chunk.js": "/react-gh-pages/static/js/3.8f4aba9b.chunk.js",
-    "static/js/3.8f4aba9b.chunk.js.map": "/react-gh-pages/static/js/3.8f4aba9b.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/react-gh-pages/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.dbea3b6e.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.dbea3b6e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-gh-pages/static/media/logo.6ce24c58.svg"
+    "main.css": "/huynhga-telegram/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/huynhga-telegram/static/js/main.78c25d29.chunk.js",
+    "main.js.map": "/huynhga-telegram/static/js/main.78c25d29.chunk.js.map",
+    "runtime-main.js": "/huynhga-telegram/static/js/runtime-main.7748f5d3.js",
+    "runtime-main.js.map": "/huynhga-telegram/static/js/runtime-main.7748f5d3.js.map",
+    "static/js/2.dbea3b6e.chunk.js": "/huynhga-telegram/static/js/2.dbea3b6e.chunk.js",
+    "static/js/2.dbea3b6e.chunk.js.map": "/huynhga-telegram/static/js/2.dbea3b6e.chunk.js.map",
+    "static/js/3.8f4aba9b.chunk.js": "/huynhga-telegram/static/js/3.8f4aba9b.chunk.js",
+    "static/js/3.8f4aba9b.chunk.js.map": "/huynhga-telegram/static/js/3.8f4aba9b.chunk.js.map",
+    "index.html": "/huynhga-telegram/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/huynhga-telegram/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dbea3b6e.chunk.js.LICENSE.txt": "/huynhga-telegram/static/js/2.dbea3b6e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/huynhga-telegram/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1cfadb0.js",
+    "static/js/runtime-main.7748f5d3.js",
     "static/js/2.dbea3b6e.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.78c25d29.chunk.js"
